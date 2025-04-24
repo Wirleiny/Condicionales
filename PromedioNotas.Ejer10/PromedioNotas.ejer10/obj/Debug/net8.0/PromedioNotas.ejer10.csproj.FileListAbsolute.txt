@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\bin\Debug\net8.0\PromedioNotas.ejer10.exe
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\bin\Debug\net8.0\PromedioNotas.ejer10.deps.json
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\bin\Debug\net8.0\PromedioNotas.ejer10.runtimeconfig.json
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\bin\Debug\net8.0\PromedioNotas.ejer10.dll
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\bin\Debug\net8.0\PromedioNotas.ejer10.pdb
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\obj\Debug\net8.0\PromedioNotas.ejer10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\obj\Debug\net8.0\PromedioNotas.ejer10.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\obj\Debug\net8.0\PromedioNotas.ejer10.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\obj\Debug\net8.0\PromedioNotas.ejer10.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\obj\Debug\net8.0\PromedioNotas.ejer10.dll
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\obj\Debug\net8.0\refint\PromedioNotas.ejer10.dll
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\obj\Debug\net8.0\PromedioNotas.ejer10.pdb
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\obj\Debug\net8.0\PromedioNotas.ejer10.genruntimeconfig.cache
+C:\Users\DELL\source\repos\PromedioNotas.ejer10\PromedioNotas.ejer10\obj\Debug\net8.0\ref\PromedioNotas.ejer10.dll
