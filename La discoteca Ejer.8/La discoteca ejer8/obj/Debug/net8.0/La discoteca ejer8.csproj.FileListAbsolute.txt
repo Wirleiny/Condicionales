@@ -1,0 +1,4 @@
+C:\Users\DELL\source\repos\La discoteca ejer8\La discoteca ejer8\obj\Debug\net8.0\La discoteca ejer8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\La discoteca ejer8\La discoteca ejer8\obj\Debug\net8.0\La discoteca ejer8.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\La discoteca ejer8\La discoteca ejer8\obj\Debug\net8.0\La discoteca ejer8.AssemblyInfo.cs
+C:\Users\DELL\source\repos\La discoteca ejer8\La discoteca ejer8\obj\Debug\net8.0\La discoteca ejer8.csproj.CoreCompileInputs.cache
