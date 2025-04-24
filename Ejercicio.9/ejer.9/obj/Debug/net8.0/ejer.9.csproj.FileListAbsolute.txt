@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\ejer.9\ejer.9\bin\Debug\net8.0\ejer.9.exe
+C:\Users\DELL\source\repos\ejer.9\ejer.9\bin\Debug\net8.0\ejer.9.deps.json
+C:\Users\DELL\source\repos\ejer.9\ejer.9\bin\Debug\net8.0\ejer.9.runtimeconfig.json
+C:\Users\DELL\source\repos\ejer.9\ejer.9\bin\Debug\net8.0\ejer.9.dll
+C:\Users\DELL\source\repos\ejer.9\ejer.9\bin\Debug\net8.0\ejer.9.pdb
+C:\Users\DELL\source\repos\ejer.9\ejer.9\obj\Debug\net8.0\ejer.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ejer.9\ejer.9\obj\Debug\net8.0\ejer.9.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ejer.9\ejer.9\obj\Debug\net8.0\ejer.9.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ejer.9\ejer.9\obj\Debug\net8.0\ejer.9.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ejer.9\ejer.9\obj\Debug\net8.0\ejer.9.dll
+C:\Users\DELL\source\repos\ejer.9\ejer.9\obj\Debug\net8.0\refint\ejer.9.dll
+C:\Users\DELL\source\repos\ejer.9\ejer.9\obj\Debug\net8.0\ejer.9.pdb
+C:\Users\DELL\source\repos\ejer.9\ejer.9\obj\Debug\net8.0\ejer.9.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ejer.9\ejer.9\obj\Debug\net8.0\ref\ejer.9.dll
