@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wirleiny_Prueba _técnica_02", "Wirleiny_Prueba _técnica_02\Wirleiny_Prueba _técnica_02.csproj", "{AA8086A0-837C-4BF7-95F6-5B46640BF739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8086A0-837C-4BF7-95F6-5B46640BF739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8086A0-837C-4BF7-95F6-5B46640BF739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8086A0-837C-4BF7-95F6-5B46640BF739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8086A0-837C-4BF7-95F6-5B46640BF739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3466BFA2-2A79-4C28-9231-F1C1531F6712}
+	EndGlobalSection
+EndGlobal

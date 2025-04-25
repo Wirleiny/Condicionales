@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Wirleiny_Prueba _técnica_02\Wirleiny_Prueba _técnica_02\bin\Debug\Wirleiny_Prueba _técnica_02.exe.config
+C:\Users\DELL\source\repos\Wirleiny_Prueba _técnica_02\Wirleiny_Prueba _técnica_02\bin\Debug\Wirleiny_Prueba _técnica_02.exe
+C:\Users\DELL\source\repos\Wirleiny_Prueba _técnica_02\Wirleiny_Prueba _técnica_02\bin\Debug\Wirleiny_Prueba _técnica_02.pdb
+C:\Users\DELL\source\repos\Wirleiny_Prueba _técnica_02\Wirleiny_Prueba _técnica_02\obj\Debug\Wirleiny_Prueba _técnica_02.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Wirleiny_Prueba _técnica_02\Wirleiny_Prueba _técnica_02\obj\Debug\Wirleiny_Prueba _técnica_02.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Wirleiny_Prueba _técnica_02\Wirleiny_Prueba _técnica_02\obj\Debug\Wirleiny_Prueba _técnica_02.exe
+C:\Users\DELL\source\repos\Wirleiny_Prueba _técnica_02\Wirleiny_Prueba _técnica_02\obj\Debug\Wirleiny_Prueba _técnica_02.pdb
