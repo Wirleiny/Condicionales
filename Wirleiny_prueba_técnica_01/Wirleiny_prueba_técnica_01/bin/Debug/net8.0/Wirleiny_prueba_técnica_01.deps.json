@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Wirleiny_prueba_técnica_01/1.0.0": {
+        "runtime": {
+          "Wirleiny_prueba_técnica_01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wirleiny_prueba_técnica_01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\bin\Debug\net8.0\Wirleiny_prueba_técnica_01.exe
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\bin\Debug\net8.0\Wirleiny_prueba_técnica_01.deps.json
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\bin\Debug\net8.0\Wirleiny_prueba_técnica_01.runtimeconfig.json
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\bin\Debug\net8.0\Wirleiny_prueba_técnica_01.dll
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\bin\Debug\net8.0\Wirleiny_prueba_técnica_01.pdb
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\obj\Debug\net8.0\Wirleiny_prueba_técnica_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\obj\Debug\net8.0\Wirleiny_prueba_técnica_01.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\obj\Debug\net8.0\Wirleiny_prueba_técnica_01.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\obj\Debug\net8.0\Wirleiny_prueba_técnica_01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\obj\Debug\net8.0\Wirleiny_prueba_técnica_01.dll
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\obj\Debug\net8.0\refint\Wirleiny_prueba_técnica_01.dll
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\obj\Debug\net8.0\Wirleiny_prueba_técnica_01.pdb
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\obj\Debug\net8.0\Wirleiny_prueba_técnica_01.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Wirleiny_prueba_técnica_01\Wirleiny_prueba_técnica_01\obj\Debug\net8.0\ref\Wirleiny_prueba_técnica_01.dll
